@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wowns226&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowns226&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wowns226&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowns226&layout=compact&theme=tokyonight)
 
 ---
 
