@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 
 # JaeJun's GitHub
 
-💻 Backend Developer (C# / .NET)  
-📚 Studying ASP.NET Core, Blazor, REST API  
-🚀 Building Team Project Management System 
-
 ---
 
 ## 🛠 Tech Stack
