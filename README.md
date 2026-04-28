@@ -47,6 +47,14 @@ Here are some ideas to get you started:
 
 ---
 
+## 🧩 Problem Solving
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID)](https://solved.ac/YOUR_BOJ_ID)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_ID?theme=dark&font=Noto%20Sans)
+
+---
+
 ## 📫 Contact
 
 - 📧 Gmail: wowns226@gmail.com  
@@ -55,4 +63,4 @@ Here are some ideas to get you started:
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_ID)
+![Visitor Count](https://komarev.com/ghpvc/?username=wowns226)
