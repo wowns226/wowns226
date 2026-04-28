@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 
 ## 🧩 Problem Solving
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID)](https://solved.ac/YOUR_BOJ_ID)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wowns226)](https://solved.ac/wowns226)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_ID?theme=dark&font=Noto%20Sans)
+![LeetCode Stats](https://leetcard.jacoblin.cool/wowns226?theme=dark&font=Noto%20Sans)
 
 ---
 
